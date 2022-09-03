@@ -1,5 +1,11 @@
 # Box of Life
 
+
+
+![box](doc\img\box.gif)
+
+
+
 Ikea FREKVENS modification with **Raspberry Pi Pico** to play [Conway's **Game of Life**](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ## Control
