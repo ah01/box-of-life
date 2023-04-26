@@ -56,7 +56,7 @@ One need to disassembly Ikea FREKVENS box, remove original MCU board and connect
 
 Connection between power supply and main PCB (4V and GND) is same.
 
-‼ **If USB connection is used, one must de-solder diode that are between `VUSB` and `VSYS` from Pico PCB.**
+‼ **If USB connection is used, one must de-solder diode that are between `VUSB` and `VSYS` from Pico PCB.** ([here's why](https://github.com/ah01/box-of-life/issues/1#issuecomment-1521187884))
 
 ## Ideas for improvements
 
